@@ -1,0 +1,5 @@
+{
+  "name": "AdminDash",
+  "description": "A modern, responsive user management and analytics dashboard featuring data visualization, user filtering, and dark mode support.",
+  "requestFramePermissions": []
+}
